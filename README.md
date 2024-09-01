@@ -64,6 +64,17 @@ Create course registration forms, student feedback surveys, and training evaluat
 ### Nonprofit and Community
 Generate registration forms, speaker application forms, and post-event surveys to streamline event management.
 
+### Screenshots
+
+#### Settings Page - Updating the OpenAI API key
+<img width="1362" alt="screenshot-1" src="https://github.com/user-attachments/assets/fd2fc94a-b583-4f43-b245-3b23066de10e">
+
+#### Dashboard - WPGen Forms plugin dashboard
+<img width="1456" alt="screenshot-2" src="https://github.com/user-attachments/assets/9c57b97b-5b81-4547-b97f-9117a0bd642a">
+
+#### Add New Form - Add new form by Generative AI
+<img width="1329" alt="screenshot-3" src="https://github.com/user-attachments/assets/d98a40b1-201a-4cb3-b0b2-76578e89e1aa">
+
 ### Change Log
 
 ###### 0.1.5
