@@ -77,6 +77,11 @@ Generate registration forms, speaker application forms, and post-event surveys t
 
 ### Change Log
 
+###### 0.1.6 - 20/10/2014
+* Redirects to form editing page after generating the forms 
+* UI improvements
+* Added Support Forum link
+
 ###### 0.1.5
 * Improve documentation 
 
