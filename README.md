@@ -77,6 +77,12 @@ Generate registration forms, speaker application forms, and post-event surveys t
 
 ### Change Log
 
+###### 0.1.8 - 03/11/2014
+* Improve form generation process logic and UI
+* UI: Disable the form generation button while processing
+* Show feedback notification after form generated successfully
+* Code improvements
+
 ###### 0.1.7 - 30/10/2014
 * Added support groq AI
 * Can generate forms with groq AI
